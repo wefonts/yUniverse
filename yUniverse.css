@@ -13,11 +13,11 @@
     font-family: "yUniverse";
     font-weight: 700;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Bold.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Bold.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Bold.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Bold.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Bold.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Bold.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Bold.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Bold.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Bold.ttf") format("truetype");
     font-display: swap;
 }
 .yUniverse {
