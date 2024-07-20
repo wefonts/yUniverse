@@ -2,11 +2,11 @@
     font-family: "yUniverse";
     font-weight: 300;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Light.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Light.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Light.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Light.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/yUniverse/yUniverse-Light.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Light.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Light.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Light.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/yUniverse/yUniverse-Light.ttf") format("truetype");
     font-display: swap;
 }
 @font-face {
